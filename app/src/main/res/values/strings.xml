@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ass1</string>
+    <string name="name_text">Enter your name</string>
+    <string name="btn_text">Show name</string>
+</resources>
